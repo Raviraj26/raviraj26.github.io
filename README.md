@@ -1,2 +1,2 @@
-# Doctoral student (Quantum Chemistry)
+### Doctoral student (Quantum Chemistry)
 
