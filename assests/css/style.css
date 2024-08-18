@@ -3,10 +3,8 @@
 
 @import "{{ site.theme }}";
 
-// Custom background style
 body {
-    background-color: #f0f0f0; /* Change this to your desired background color */
-    background-image: url('../Images/CHGDIFF.png'); /* Optional: use a custom background image */
+    background-image: url('../Images/ScreenShot00011.png'); /* Optional: use a custom background image */
     background-size: cover; /* Cover the entire page */
     background-repeat: no-repeat; /* Prevent repeating the image */
     background-attachment: fixed; /* Keep the background fixed on scroll */
