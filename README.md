@@ -3,4 +3,4 @@
 - **Fields of Interest** - σ-Functionals, Random Phase Approxiation, Kohn-Sham Formalism, Kohn-Sham Inversion, Electronic structure theory, and Computational Material Science.
   
 # RESEARCH EXPERIENCE
-- **Doktorand | (_May-2022 - Present_)**
+**Doktorand | (_May-2022 - Present_)**
