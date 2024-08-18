@@ -73,9 +73,10 @@ optical properties.
 * Manage & refine the existing Customer data
 * Generate various MIS reports & graphics from Sales Data.
 
-# TECHNICAL SKILLS
+# SKILLS
 - **Programming Languages** - Fortran, Python, Julia and, Markdown.
-- **Tools** - [CP2K](https://www.cp2k.org/)(dev), [Molpro](https://www.molpro.net/), [likwid](https://github.com/RRZE-HPC/likwid), [Github](https://github.com/), [VASP](https://www.vasp.at/), [VESTA](https://jp-minerals.org/vesta/en/), Octave, Jupyter Notebook, VS Code,  GNUPLOT. 
+- **Tools** - [CP2K](https://www.cp2k.org/)(dev), [Molpro](https://www.molpro.net/), [likwid](https://github.com/RRZE-HPC/likwid), [Github](https://github.com/), [VASP](https://www.vasp.at/), [VESTA](https://jp-minerals.org/vesta/en/), Octave, Jupyter Notebook, VS Code,  GNUPLOT.
+- High performace computing, Computational chemistry, DFT 
 - Quantum Computing Platform (Basics of Qiskit).
 - Microprocessor Programming (IC-8085, IC-8052, IC-8051).
 
