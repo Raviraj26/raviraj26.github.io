@@ -68,24 +68,22 @@ optical properties.
 * Continuous co-ordination between Consultant, Management &, Employees.
 * Participation in weekly & monthly review meetings with management, Staff & Consultant.
 
----
-layout: default
-title: Management Representative
----
-
-## Management Representative
-
-<div class="dropdown">
-    <button class="dropbtn">Management Representative</button>
-    <div class="dropdown-content">
-        <p>Implementation of the system & process designed by the consultant.</p>
-        <p>Continuous coordination between Consultant, Management, & Employees.</p>
-        <p>Participation in weekly & monthly review meetings with Management, Staff & Consultant.</p>
-    </div>
-</div>
-
 ### Data Analyst.
 * Support existing Back office marketing team in generating reports.
 * Manage & refine the existing Customer data
 * Generate various MIS reports & graphics from Sales Data.
 
+# TECHNICAL SKILLS
+- **Programming Languages** - Fortran, Python and, Markdown.
+- **Tools** - [CP2K](https://www.cp2k.org/)(dev), [Molpro](https://www.molpro.net/), [likwid](https://github.com/RRZE-HPC/likwid), [Github](https://github.com/), [VASP](https://www.vasp.at/), [VESTA](https://jp-minerals.org/vesta/en/), Octave, Jupyter Notebook, VS Code,  GNUPLOT. 
+- Quantum Computing Platform (Basics of Qiskit).
+- Microprocessor Programming (IC-8085, IC-8052,
+IC-8051).
+
+# Awards
+- NHR Graduate Fellowship 2022.
+- Qualified Gate Physics 2020.
+- Awarded SRFP-2019 Fellowship by Three Indian
+Academies of Sciences.
+- Awarded Dr. M. S. Patel Prize for securing highest
+number of marks in 2nd year Bachelors.
