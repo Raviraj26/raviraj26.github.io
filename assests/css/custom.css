@@ -1,7 +1,3 @@
-// Import the minimal theme's default styles
-@import "minimal";
-
-// Custom background style
 body {
     background-color: #f0f0f0; /* Change this to your desired background color */
     background-image: url('../Images/ScreenShot00011.png'); /* Optional: use a custom background image */
