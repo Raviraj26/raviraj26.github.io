@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 
 # Include custom CSS
 include:
-  - assets/css/custom.css
+  - /home/raviraj/portfolio/raviraj26.github.io/assets/css/custom.css
