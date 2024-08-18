@@ -5,4 +5,7 @@ logo: Raviraj_2.png
 theme: jekyll-theme-minimal
 
 include:
-  - assets/css
+  - assets/css/
+
+include: 
+ - _layouts/
