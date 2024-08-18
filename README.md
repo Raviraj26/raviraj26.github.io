@@ -68,6 +68,22 @@ optical properties.
 * Continuous co-ordination between Consultant, Management &, Employees.
 * Participation in weekly & monthly review meetings with management, Staff & Consultant.
 
+---
+layout: default
+title: Management Representative
+---
+
+## Management Representative
+
+<div class="dropdown">
+    <button class="dropbtn">Management Representative</button>
+    <div class="dropdown-content">
+        <p>Implementation of the system & process designed by the consultant.</p>
+        <p>Continuous coordination between Consultant, Management, & Employees.</p>
+        <p>Participation in weekly & monthly review meetings with Management, Staff & Consultant.</p>
+    </div>
+</div>
+
 ### Data Analyst.
 * Support existing Back office marketing team in generating reports.
 * Manage & refine the existing Customer data
