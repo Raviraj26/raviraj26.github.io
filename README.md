@@ -46,3 +46,46 @@ optical properties.
 **PI: Dr. Vaishali Shah** _Department of Scientific computing, Modeling and, Simulation, Savitribai Phule Pune University_
 
 - [Exploring the tunability of lead free Ba0. 5Sn0. 5TiO3 to mimic PbTiO3](https://www.sciencedirect.com/science/article/pii/S0254058423010799)
+
+# Experience outside Research
+
+## **NHR Speaker (_June-2024-Present_)**
+
+- Representing the fellows of their cohort in interactions with the Steering Committee, Ph.D. supervisors, and the Executive Board of the NHR-Association.
+
+- Organizing events that facilitate exchange between the fellows, as well as career and networking events.
+
+- Assisting in the announcement of NHR Graduate School scholarships and other public relations activities.
+
+- Furthermore, the activities include supporting the NHR Association in the quality assurance and further development of the NHR Graduate School.
+
+## **Support Executive (_Sep-2020 - Dec-2020_).**
+
+[Innovative Engineering Products Private Limited](https://ieppl.com/)
+
+### Management representative.
+* Implementation of the system & process designed by the consultant.
+* Continuous co-ordination between Consultant, Management &, Employees.
+* Participation in weekly & monthly review meetings with management, Staff & Consultant.
+
+---
+layout: default
+title: Management Representative
+---
+
+## Management Representative
+
+<div class="dropdown">
+    <button class="dropbtn">Management Representative</button>
+    <div class="dropdown-content">
+        <p>Implementation of the system & process designed by the consultant.</p>
+        <p>Continuous coordination between Consultant, Management, & Employees.</p>
+        <p>Participation in weekly & monthly review meetings with Management, Staff & Consultant.</p>
+    </div>
+</div>
+
+### Data Analyst.
+* Support existing Back office marketing team in generating reports.
+* Manage & refine the existing Customer data
+* Generate various MIS reports & graphics from Sales Data.
+
