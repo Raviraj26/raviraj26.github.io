@@ -43,6 +43,6 @@ optical properties.
 
 ## **Junior Research Fellow (_Jan-2021 to Oct-2021_)**
 
-## **PI: Dr. Vaishali Shah** _Department of Scientific computing, Modeling and, Simulation, Savitribai Phule Pune University_
+**PI: Dr. Vaishali Shah** _Department of Scientific computing, Modeling and, Simulation, Savitribai Phule Pune University_
 
 - [Exploring the tunability of lead free Ba0. 5Sn0. 5TiO3 to mimic PbTiO3](https://www.sciencedirect.com/science/article/pii/S0254058423010799)
