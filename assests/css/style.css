@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "minimal";
-
 body {
     background-image: url('../Images/ScreenShot00011.png'); /* Optional: use a custom background image */
     background-size: cover; /* Cover the entire page */
