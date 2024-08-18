@@ -74,16 +74,19 @@ optical properties.
 * Generate various MIS reports & graphics from Sales Data.
 
 # TECHNICAL SKILLS
-- **Programming Languages** - Fortran, Python and, Markdown.
+- **Programming Languages** - Fortran, Python, Julia and, Markdown.
 - **Tools** - [CP2K](https://www.cp2k.org/)(dev), [Molpro](https://www.molpro.net/), [likwid](https://github.com/RRZE-HPC/likwid), [Github](https://github.com/), [VASP](https://www.vasp.at/), [VESTA](https://jp-minerals.org/vesta/en/), Octave, Jupyter Notebook, VS Code,  GNUPLOT. 
 - Quantum Computing Platform (Basics of Qiskit).
-- Microprocessor Programming (IC-8085, IC-8052,
-IC-8051).
+- Microprocessor Programming (IC-8085, IC-8052, IC-8051).
 
 # Awards
 - NHR Graduate Fellowship 2022.
+- [Machine learning hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7208721400554020864/) during NHR summer school 2024.
 - Qualified Gate Physics 2020.
 - Awarded SRFP-2019 Fellowship by Three Indian
 Academies of Sciences.
 - Awarded Dr. M. S. Patel Prize for securing highest
 number of marks in 2nd year Bachelors.
+
+# Hobbies
+- Cooking, anime and sci-fi series, sky gazing &, jogging.
