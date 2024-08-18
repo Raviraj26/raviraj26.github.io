@@ -3,7 +3,3 @@ logo: Raviraj_2.png
 description: Doctoral student Quantum Chemistry
 show_downloads: true
 theme: jekyll-theme-minimal
-
-# Include custom CSS
-include:
-  - /home/raviraj/portfolio/raviraj26.github.io/assets/css/custom.css

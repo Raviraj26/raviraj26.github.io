@@ -30,9 +30,12 @@ optical properties.
 
 - Publication: [Nitrogen adsorption via charge transfer on vacancies created during surfactant assisted exfoliation of TiB 2](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06676a/unauth)
 
+
 <div style="text-align: center;">
 <img src="assests/Images/CHGDIFF.png" alt="drawing" width="400"/>
 </div>
+
+
 
 <div style="text-align: center;">
 <img src="assests/Images/vancany-pic1.jpeg" alt="drawing" width="400"/>
