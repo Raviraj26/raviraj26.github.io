@@ -1,6 +1,8 @@
 title: Raviraj Mandalia
 logo: Raviraj_2.png
-website: https://scholar.google.com/citations?user=edNmQCYAAAAJ&hl=en
+social:
+ linkedin: www.linkedin.com/in/raviraj-mandalia-390684177 
+ scholar: https://scholar.google.com/citations?user=edNmQCYAAAAJ&hl=en
 #description: 
 #show_downloads: true
 theme: jekyll-theme-minimal
