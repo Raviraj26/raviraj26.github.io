@@ -21,9 +21,13 @@
 
 - **Ongoing research:** Calculating accurate RPA based non-linear
 optical properties.
-- Under review in Nano letters [Bottom-up Synthesis and Characterization of Porous 12-Atom Wide Armchair Graphene Nanoribbons]()
+- Publication: [Bottom-up Synthesis and Characterization of Porous 12-Atom Wide Armchair Graphene Nanoribbons](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.4c01106)
+<div style="text-align: center;">
+<img src="assests/Images/Porous_Graphene_Nanoribons_.jpeg" alt="drawing" width="400"/>
+</div>
+
 - Investigation of ionization energies of small systems using Kohn-Sham inversion approach.
-- Investigation of spatially symmetrized EXX methods to avoid spin contamination and Symmetry breaking
+- Investigation of spatially symmetrized ACFD methods to avoid spin contamination and Symmetry breaking
 
 ## **Junior Research Fellow (_Oct-2021 - Mar-2022_)**
 
