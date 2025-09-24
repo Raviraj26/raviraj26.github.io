@@ -1,7 +1,5 @@
 
-# About me <div style="text-align: center;">
-<img src="assests/Images/QR.png" alt="drawing" width="60"/>
-</div>
+# About me <img src="assests/Images/QR.png" alt="drawing" width="60"/>
 
  I am a graduate student at NHR graduate school. Simultaneously hosted by Prof Andreas Görling, Lehrstuhl für Theoretische Chemie, FAU Erlangen. My hometown is Rajkot, in Gujarat, India.
 
