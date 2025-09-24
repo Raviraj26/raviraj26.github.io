@@ -1,5 +1,9 @@
+
 # About me
  I am a graduate student at NHR graduate school. Simultaneously hosted by Prof Andreas Görling, Lehrstuhl für Theoretische Chemie, FAU Erlangen. My hometown is Rajkot, in Gujarat, India.
+<div style="text-align: center;">
+<img src="assests/Images/QR.png" alt="drawing" width="40"/>
+</div>
 
 # Research Interest
 - **Fields of Interest** - Random Phase Approximation based methods,  σ-Functionals, Kohn-Sham Formalism, Kohn-Sham Inversion, Electronic structure theory, and Computational Material Science.
