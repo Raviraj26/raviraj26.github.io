@@ -159,7 +159,15 @@ Elected representative of the NHR Graduate School fellow cohort. Liaison with th
 
 ## Currently Exploring
 
-Fourier Neural Operators for PDEs · Lean theorem proving · Berry curvature and topological aspects of electronic structure
+**Research directions**
+- Analytic nuclear gradients for BSE@GW and COHSEX 
+- Geometric formulations of the Optimized Effective Potential method
+- Inverse problems for Alcubierre-type spacetime metrics (general relativity)
+
+**Mathematical and computational interests**
+- Fourier Neural Operators for PDEs and operator learning
+- Berry curvature and topological aspects of electronic structure
+- Lean theorem proving
 
 ---
 ## Selected Visual Work
