@@ -136,7 +136,7 @@ Collaboration with Dr. Frederick Stein and Prof. Thomas D. Kühne (CASUS / HZDR)
 **Developer tools:** Git · VS Code · Jupyter · GNUplot · VESTA  
 **Methods:** DFT · RPA · ACFD · σ-functionals · OEP / KS-inversion · electronic-structure theory  
 **Quantum computing:** Qiskit (basics)  
-**Languages:** English (fluent) · Hindi & Gujarati (native) · German (working proficiency, B2 in progress)
+**Languages:** English (fluent) · Hindi & Gujarati (native) 
 
 ---
 
