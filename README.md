@@ -157,7 +157,7 @@ Elected representative of the NHR Graduate School fellow cohort. Liaison with th
 
 ---
 
-## Currently Exploring
+## Current Interests
 
 **Research directions**
 - Analytic nuclear gradients for BSE@GW and COHSEX 
