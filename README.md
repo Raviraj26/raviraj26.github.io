@@ -162,13 +162,13 @@ Elected representative of the NHR Graduate School fellow cohort. Liaison with th
 **Research directions**
 - Analytic nuclear gradients for BSE@GW and COHSEX 
 - Geometric formulations of the Optimized Effective Potential method
-- Inverse problems for Alcubierre-type spacetime metrics (general relativity)
 
 **Mathematical and computational interests**
-- Fourier Neural Operators for PDEs and operator learning
 - Berry curvature and topological aspects of electronic structure
 - Lean theorem proving
-
+- Inverse problems for Alcubierre-type spacetime metrics (general relativity)
+- Fourier Neural Operators for PDEs and operator learning
+  
 ---
 ## Selected Visual Work
 
