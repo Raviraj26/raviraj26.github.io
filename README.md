@@ -61,7 +61,8 @@ Collaboration with Dr. Frederick Stein and Prof. Thomas D. Kühne (CASUS / HZDR)
 ### 2026
 1. E. Trushin, **R. Mandalia**, A. Görling.
    "Accurate electron affinities from anion HOMO energies within the self-consistent random phase approximation"
-   *(Under review w J. Chem. Phys.)* 
+   *(Under review w J. Chem. Phys.)*
+   
 ### 2025
 1. **R. Mandalia**, E. Trushin, F. Stein, T. D. Kühne, A. Görling.  
    "Mixed Gaussian and plane wave basis set implementation of the random phase approximation and of σ-functionals within the program package CP2K."  
