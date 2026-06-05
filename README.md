@@ -163,7 +163,7 @@ Elected representative of the NHR Graduate School fellow cohort. Liaison with th
 
 ## Current Interests
 
-**Research directions**
+**Future directions**
 - Analytic nuclear gradients for BSE@GW and COHSEX 
 - Geometric formulations of the Optimized Effective Potential method
 
