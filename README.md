@@ -59,41 +59,41 @@ Collaboration with Dr. Frederick Stein and Prof. Thomas D. Kühne (CASUS / HZDR)
 
 ## Publications
 ### 2026
-9. E. Trushin, **R. Mandalia**, A. Görling.
+1. E. Trushin, **R. Mandalia**, A. Görling.
    "Accurate electron affinities from anion HOMO energies within the self-consistent random phase approximation"
    *(Under review w J. Chem. Phys.)* 
 ### 2025
-8. **R. Mandalia**, E. Trushin, F. Stein, T. D. Kühne, A. Görling.  
+1. **R. Mandalia**, E. Trushin, F. Stein, T. D. Kühne, A. Görling.  
    "Mixed Gaussian and plane wave basis set implementation of the random phase approximation and of σ-functionals within the program package CP2K."  
    *J. Chem. Phys.* **163**, 224115 (2025) — [doi: 10.1063/5.0304890](https://doi.org/10.1063/5.0304890)
 
-7. **R. Mandalia**, S. Fauser, E. Trushin, A. Görling.  
+2. **R. Mandalia**, S. Fauser, E. Trushin, A. Görling.  
    "Assessment of RPA and σ-functional methods for the calculation of dipole moments and static polarizabilities and hyperpolarizabilities."  
    *J. Chem. Phys.* **162**, 184106 (2025) — [doi: 10.1063/5.0267912](https://doi.org/10.1063/5.0267912)
 
-6. E. Trushin, **R. Mandalia**, A. Görling.  
+3. E. Trushin, **R. Mandalia**, A. Görling.  
    "Analyzing the response of exchange–correlation potentials of chain-like molecules to electric fields by Kohn–Sham inversion and evaluation of the response within the random phase approximation."  
    *J. Chem. Phys.* **163**, 244115 (2025) — [doi: 10.1063/5.0294687](https://doi.org/10.1063/5.0294687)
 
-5. A. Rasyotra, A. Thakur, S. Shukla, **R. Mandalia**, R. Ranganathan, K. Jasuja.  
+4. A. Rasyotra, A. Thakur, S. Shukla, **R. Mandalia**, R. Ranganathan, K. Jasuja.  
    "Surfactant-Assisted Exfoliation of Tantalum Diboride (TaB₂) for Electrochemical CO₂ Reduction."  
    *ACS Sustainable Chem. Eng.* **13**(6), 2312–2323 (2025) - [doi: 10.1021/acssuschemeng.4c06710](https://doi.org/10.1021/acssuschemeng.4c06710)
 
 ### 2024
-4. Q. Fan, Z. Ruan, S. Werner, T. Naumann, R. Bolat, J. Martinez-Castro, … **R. Mandalia**, … et al.  
+1. Q. Fan, Z. Ruan, S. Werner, T. Naumann, R. Bolat, J. Martinez-Castro, … **R. Mandalia**, … et al.  
    "Bottom-up Synthesis and Characterization of Porous 12-Atom-Wide Armchair Graphene Nanoribbons."  
    *Nano Letters* **24**(35), 10718–10723 (2024) — [doi: 10.1021/acs.nanolett.4c01106](https://doi.org/10.1021/acs.nanolett.4c01106)
 
-3. A. Rasyotra, A. Thakur, B. Gaykwad, **R. Mandalia**, R. Ranganathan, K. Jasuja.  
+2. A. Rasyotra, A. Thakur, B. Gaykwad, **R. Mandalia**, R. Ranganathan, K. Jasuja.  
    "Vacancy-Rich TiB₂ Nanosheets Promote Electrochemical Ammonia Synthesis."  
    *ACS Applied Mater. Interfaces* **16**(19), 24473–24482 (2024) — [doi: 10.1021/acsami.4c00253](https://doi.org/10.1021/acsami.4c00253)
 
 ### 2023
-2. A. Rasyotra, A. Thakur, **R. Mandalia**, R. Ranganathan, K. Jasuja.  
+1. A. Rasyotra, A. Thakur, **R. Mandalia**, R. Ranganathan, K. Jasuja.  
    "Nitrogen adsorption via charge transfer on vacancies created during surfactant-assisted exfoliation of TiB₂."  
    *Nanoscale* **15**(18), 8204–8216 (2023) — [doi: 10.1039/D2NR06676A](https://doi.org/10.1039/D2NR06676A)
 
-1. B. Kshirsagar, **R. Mandalia**, V. Shah, B. Pujari, S. Premkumar.  
+2. B. Kshirsagar, **R. Mandalia**, V. Shah, B. Pujari, S. Premkumar.  
    "Exploring the tunability of lead-free Ba₀.₅Sn₀.₅TiO₃ to mimic PbTiO₃."  
    *Mater. Chem. Phys.* **309**, 128371 (2023). [doi: 10.1016/j.matchemphys.2023.128371](https://doi.org/10.1016/j.matchemphys.2023.128371)
 ---
