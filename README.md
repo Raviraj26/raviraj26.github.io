@@ -6,7 +6,8 @@
 [**Incoming Postdoctoral Researcher** — CASUS / HZDR (Oct 2026)]:#
 [*Group: Prof. Thomas D. Kühne & Prof. Jan Wilhelm · BSE@GW and COHSEX analytic nuclear gradients*]:#
 
-📧 **<raviraj.mandalia@fau.de>**  ·  💻 [GitHub](https://github.com/Raviraj26)  ·  🔗 [LinkedIn](https://www.linkedin.com/in/raviraj-mandalia-390684177)  ·  📚 [Google Scholar](https://scholar.google.com/citations?user=edNmQCYAAAAJ&hl=en)  ·  📄 [CV (PDF)](assests/CV_Raviraj_Mandalia.pdf)
+📧 **<raviraj.mandalia@fau.de>**  ·  💻 [GitHub](https://github.com/Raviraj26)  ·  🔗 [LinkedIn](https://www.linkedin.com/in/raviraj-mandalia-390684177)  ·  📚 [Google Scholar](https://scholar.google.com/citations?user=edNmQCYAAAAJ&hl=en)  
+[·  📄 [CV (PDF)](assests/CV_Raviraj_Mandalia.pdf)]:#
 
 ---
 
