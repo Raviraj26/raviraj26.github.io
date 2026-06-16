@@ -17,7 +17,7 @@
   - An RPA / σ-functional implementation in **CP2K** with mixed Gaussian and plane-wave basis sets
   - The first systematic assessment of RPA and σ-functionals for static optical response properties.
 
-- I am open to discussions on postdoctoral research, scientific computing roles, and HPC software engineering positions for **late 2026 / early 2027** starts.
+- I am open to discussions on postdoctoral research for **late 2026 / early 2027** starts.
 
 ---
 
@@ -52,6 +52,7 @@ Collaboration with Dr. Frederick Stein and Prof. Thomas D. Kühne (CASUS / HZDR)
 
 - **Random Phase Approximation (RPA)** and **σ-functionals** within the Adiabatic Connection Fluctuation–Dissipation (ACFD) framework
 - **Optimized Effective Potential (OEP)** and **Kohn–Sham inversion** for accurate exchange–correlation potentials and ionization energies
+- Geometric OEP and inverse design of band quantum geometry
 - Spatially symmetrized ACFD methods to mitigate spin contamination and symmetry breaking
 - HPC-scale implementation of correlated electronic-structure methods in production codes
 
